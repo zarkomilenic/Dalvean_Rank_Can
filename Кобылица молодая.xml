@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Кобылица молодая</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Кобылица молодая</edition>
+        <respStmt>
+          <resp>Editor</resp>
+          <name>Вышки Студент</name>
+        </respStmt>
+      </editionStmt>
+    </fileDesc>
+  </teiHeader>
+  <sourceDoc>
+    <surfaceGrp>
+      <surface n="Второй слой">
+        <graphic url="http://textograf.ru/api/Manuscripts/9ccd91ab-6ee3-4fb9-8e7c-585e5a621154/7efb83e9-8da5-44ec-bb5b-0efc63ec87e7.jpg" width="1919px" height="1372px" />
+        <zone>
+          <line>Кобылица молодая,</line>
+          <line>Честь кавказского завра,</line>
+          <line>Что ты мчишься, удалая?</line>
+          <line>И тебе<del>Что твой</del> пришла пора<del>добра</del>;</line>
+          <line>Не косись пуглывим оком,</line>
+          <line>Ног на воздух не мечи </line>
+          <line>В поле гладком<del>чистом</del> и широком</line>
+          <line>Своенравно<del>вольно</del> не скачи. </line>
+          <line>Погоди; <del>я </del>тебя заставлю</line>
+          <line>Я смириться пода мной:</line>
+          <line>В мерный круг твой бег направлю</line>
+          <line>Укороченной уздой.</line>
+          <line />
+          <line> </line>
+        </zone>
+      </surface>
+    </surfaceGrp>
+  </sourceDoc>
+</TEI>
