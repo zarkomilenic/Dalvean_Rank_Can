@@ -19,3 +19,7 @@ Closeness centrality: наиболее удалены от центра сети
 Центральные узлы: Lear, Kent, Fool, Edmund, Osvald, Cornwall, Albany, Goneril, Regan, Gloster
 
 Максималная вес ребра = 
+
+Средняя длина пути = 1,27
+
+Eccentricity для этих героев максимально
