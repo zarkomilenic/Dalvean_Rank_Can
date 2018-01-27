@@ -1,0 +1,54 @@
+Source,Type,Target,Weight
+Albany,Undirected,Cornwall,1
+Albany,Undirected,Goneril,2
+Albany,Undirected,Kent,1
+Albany,Undirected,Lear,2
+Albany,Undirected,Oswald,1
+Albany,Undirected,Regan       ,1
+Cornwall,Undirected,Edmund,3
+Cornwall,Undirected,Fool,2
+Cornwall,Undirected,Gloster,2
+Cornwall,Undirected,Goneril,1
+Cornwall,Undirected,Kent,4
+Cornwall,Undirected,Knight,2
+Cornwall,Undirected,Lear,4
+Cornwall,Undirected,Oswald,2
+Cornwall,Undirected,Regan,2
+Cornwall,Undirected,Regan       ,1
+Edmund,Undirected,Fool,1
+Edmund,Undirected,Gloster,1
+Edmund,Undirected,Goneril,3
+Edmund,Undirected,Kent,1
+Edmund,Undirected,Knight,1
+Edmund,Undirected,Lear,1
+Edmund,Undirected,Oswald,1
+Edmund,Undirected,Regan,2
+Fool,Undirected,Goneril,1
+Fool,Undirected,Kent,5
+Fool,Undirected,Knight,1
+Fool,Undirected,Lear,5
+Fool,Undirected,Oswald,2
+Gloster,Undirected,Kent,1
+Gloster,Undirected,Knight,1
+Gloster,Undirected,Lear,1
+Gloster,Undirected,Oswald,1
+Gloster,Undirected,Regan,2
+Goneril,Undirected,Kent,2
+Goneril,Undirected,Lear,2
+Goneril,Undirected,Oswald,4
+Goneril,Undirected,Regan       ,1
+Kent,Undirected,Knight,2
+Kent,Undirected,Lear,8
+Kent,Undirected,Luda,1
+Kent,Undirected,Oswald,3
+Kent,Undirected,Regan,1
+Kent,Undirected,Regan       ,1
+Knight,Undirected,Lear,2
+Knight,Undirected,Oswald,1
+Knight,Undirected,Regan,1
+Lear,Undirected,Luda,1
+Lear,Undirected,Oswald,3
+Lear,Undirected,Regan,1
+Lear,Undirected,Regan       ,1
+Lear,Undirected,Tom,1
+Oswald,Undirected,Regan,1
