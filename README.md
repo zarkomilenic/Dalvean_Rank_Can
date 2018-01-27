@@ -12,3 +12,10 @@
 
 Статистика по графу:
 
+12 узлов
+
+Closeness centrality: наиболее удалены от центра сети Edmund, Knight, Osvald, Gloster, Goneril. Knight сами неважни для сюжета. Tom ест персонаж только в одном явлению
+
+Центральные узлы: Lear, Kent, Fool, Edmund, Osvald, Cornwall, Albany, Goneril, Regan, Gloster
+
+Максималная вес ребра = 
